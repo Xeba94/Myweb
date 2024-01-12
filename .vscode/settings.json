@@ -1,0 +1,6 @@
+{
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.useLocalIp": false,
+    "liveServer.settings.showOnStatusbar": false,
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "/mnt/c/Program Files/Google/Chrome/Application/chrome.exe",
+}
